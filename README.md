@@ -345,9 +345,8 @@ OLTP  ──►  Data Gen  ──►  SSIS ETL  ──►  DWH (Galaxy)  ──�
 
 <div align="center">
 
-<sub>MEET THE TEAM</sub>
-
-## 🚀 The BI Strike Team 🚀
+### 🚀 The BI Strike Team 🚀
+<br/>
 
 <table>
   <tr>
